@@ -1,3 +1,7 @@
+# THIS PROJECT IS OUTDATED 
+
+you might want to check https://github.com/vlpt-playground/advanced-rr4-tutorial
+
 # React Router 4 Pre-release Example
 This is an example project of using Pre-release version of React-Router v4.
 
